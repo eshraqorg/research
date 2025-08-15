@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="شعار إشراق للتنمية المجتمعية" width="180">
+  <img src="LOGO.png" alt="شعار إشراق للتنمية المجتمعية" width="180">
 </p>
 
 <h1 align="center">إشراق للتنمية المجتمعية | Eshraq for Community Development</h1>
