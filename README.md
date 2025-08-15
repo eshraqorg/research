@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="شعار إشراق للتنمية المجتمعية" width="180">
+  <img src="LOGO.png" alt="شعار إشراق للتنمية المجتمعية" width="180">
 </p>
 
 <h1 align="center">إشراق للتنمية المجتمعية | Eshraq for Community Development</h1>
@@ -49,13 +49,13 @@
 
 - 🌍 الموقع الإلكتروني: [eshraq.org](https://eshraq.org)
 - 📧 البريد الإلكتروني: info@eshraq.org
-- 📱 واتساب: +962-7XXXXXXX
+- 📱 واتساب: +905076206183
 
 ---
 
-## ⚖️ الرخصة
+## ⚖️ سياسة الخصوصية
 
-هذا المشروع متاح بموجب [رخصة المشاع الإبداعي: CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- يمكنك الاطلاع على سياسة الخصوصية عبر الرابط: [https://eshraq.org/privacy-policy/](https://eshraq.org/privacy-policy/)
 
 ---
 
