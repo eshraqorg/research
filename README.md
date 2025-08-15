@@ -1,10 +1,6 @@
 <p align="center">
   <img src="logo.png" alt="شعار إشراق للتنمية المجتمعية" width="180">
 </p>
-
-<h1 align="center">إشراق للتنمية المجتمعية | Eshraq for Community Development</h1>
-
-<p align="center">
   منصة تنموية مجتمعية تسعى لتمكين الأفراد وتعزيز الوعي المجتمعي من خلال مشاريع تنموية، دعم نفسي، ومبادرات توعوية شاملة.
 </p>
 
