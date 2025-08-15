@@ -49,14 +49,13 @@
 
 - 🌍 الموقع الإلكتروني: [eshraq.org](https://eshraq.org)
 - 📧 البريد الإلكتروني: info@eshraq.org
-- 📱 واتساب: +962-7XXXXXXX
+- 📱 واتساب: +90-5076206183
 
 ---
 
 ## ⚖️ الرخصة
 
-هذا المشروع متاح بموجب [رخصة المشاع الإبداعي: CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-
+https://eshraq.org/privacy-policy/
 ---
 
 <p align="center">
